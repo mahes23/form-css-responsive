@@ -201,7 +201,7 @@ margin-top: 1%;
 }
 @media only screen and (max-width:480px){
     header{
-        width:98%;
+        width:99%;
         position:sticky;
         top: 0;
         z-index:1;
@@ -245,6 +245,6 @@ margin-top: 1%;
     }
     .singlerowform{
         background-color: white;
-        height: 80vh;
+        height: 70vh;
 }
 }
